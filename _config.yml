@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: CIFAR-10 Image Classifier
+description: A beginner-friendly deep learning project using CNN and PyTorch
+markdown: kramdown
